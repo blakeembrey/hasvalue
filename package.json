@@ -1,6 +1,6 @@
 {
   "name": "hasvalue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a value exists at a nested property path",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
