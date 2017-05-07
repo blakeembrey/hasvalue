@@ -4,6 +4,7 @@
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/hasvalue.svg)](https://greenkeeper.io/)
 
 > Check if a value exists at a nested property path.
 
